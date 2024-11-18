@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 450 283">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        font-family: JosefinSlabRoman-SemiBold, 'Josefin Slab';
+        font-size: 14px;
+        font-variation-settings: 'wght' 600;
+        font-weight: 600;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <image width="450" height="283" xlink:href="../Southgate.jpg"/>
+    <text class="cls-1" transform="translate(157 64.16)"><tspan x="0" y="0">Neville Brody was </tspan><tspan x="4.47" y="16.8">born on April 23, </tspan><tspan x="1.97" y="33.6">1957 in Southgate, </tspan><tspan x="33.66" y="50.4">London</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,1377 @@
+/* ------GENERAL------ */
+
+.top_white{
+    width: 100%;
+    height: 50px;
+    background: white;
+    top: 37.5px;
+}
+
+.blank_sm{
+    height: 300px;
+}
+
+.blank_lg{
+    height: 600px;
+}
+
+/* --------HOME-------- */
+
+.index_accenta{
+    width: 100%;
+    height: 37.5px;
+    background-color: #3a181a;
+}
+
+.linea{
+    background-color: white;
+    width: 35%;
+    height: 10px;
+    top: 150px;
+    position: absolute;
+    z-index: 2;
+}
+
+.lineb{
+    background-color: white;
+    width: 20%;
+    height: 10px;
+    top: 1000px;
+    position: absolute;
+    z-index: 2;
+}
+
+.linec{
+    background-color: white;
+    width: 13%;
+    height: 10px;
+    top: 150px;
+    left: 87%;
+    position: absolute;
+    z-index: 2;
+}
+
+.index_shader{
+    background-color: #641d217c;
+    width: 100%;
+    height: 1006px;
+    position: absolute;
+    z-index: 1;
+}
+
+.index_header_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 20%;
+    position: relative;
+}
+
+
+.index_header_neville{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 150px;
+    position: absolute;
+    z-index: 1;
+    top: 280px;
+    left: 7%;
+    color: white;
+    z-index: 2;
+}
+
+.index_header_brody{
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 200px;
+    position: absolute;
+    z-index: 2;
+    top: 150px;
+    left: 25%;
+    transform: rotate(-90deg);
+    color: white;
+}
+
+.index_nav_back{
+    width: 100%;
+    height: 75px;
+    background-color: #3a181a;
+    top: 10006px;
+}
+
+.index_nav{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    font-size: 30px;
+    position: absolute;
+    left: 28%;
+    top: 1090px;
+    z-index: 5;
+}
+
+#inav_index:hover{
+    color:  #bda7a8;
+}
+
+#inav_about:hover{
+    color:  #bda7a8;
+}
+
+#inav_gallery:hover{
+    color:  #bda7a8;
+}
+
+#inav_style:hover{
+    color:  #bda7a8;
+}
+
+#inav_career:hover{
+    color:  #bda7a8;
+}
+
+#sun_whta{
+    position: absolute;
+    width: 525px;
+    z-index: 3;
+    left: 60%;
+    top: 460px;
+}
+
+#sun_whtb{
+    position: absolute;
+    width: 350px;
+    z-index: 3;
+    top: 500px;
+}
+
+#sun_whtc{
+    position: absolute;
+    width: 500px;
+    z-index: 3;
+    top: 1550px;
+}
+
+#sun_whtd{
+    position: absolute;
+    width: 300px;
+    z-index: 3;
+    top: 2200px;
+    left: 39%;
+}
+
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    margin-right: 50px;
+}
+
+.body_back{
+    background-color: #bda7a8;
+}
+
+#aposa{
+    position: absolute;
+    z-index: 3;
+    top: 400px;
+    opacity: 50%;
+    top: 680px;
+}
+
+#aposb{
+    position: absolute;
+    z-index: 3;
+    top: 700px;
+    opacity: 50%;
+    rotate: 180deg;
+}
+
+.quote{
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    color: #3a181a;
+    font-size: 75px;
+    width: 75%;
+    position: absolute;
+    text-align: center;
+    left: 10%;
+}
+
+.quote:hover{
+    font-size: 77px;
+    font-weight: 500;
+}
+
+.index_body{
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    color: #3a181a;
+    font-size: 25px;
+    text-align: center;
+    position: absolute;
+    width: 75%;
+    left: 10%;
+    top: 2100px;
+}
+
+footer{
+    text-align: center;
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+#index_footer_back{
+    width: 100%;
+    height: 150px;
+    background-color: #3a181a;
+    top: 2000px;
+    position: absolute;
+    top: 2550px;
+}
+
+.footera{
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    position: absolute;
+    z-index: 2;
+    top: 2575px;
+    left: 45%;
+}
+
+.footerb{
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    text-align: center;
+    color: white;
+    position: absolute;
+    z-index: 2;
+    top: 2600px;
+    left: 44.5%;
+}
+
+/* -------ABOUT------- */
+
+.index_accentb{
+    width: 100%;
+    height: 37.5px;
+    background-color: #1D2844;
+}
+
+.lined{
+    background-color: white;
+    width: 100%;
+    height: 10px;
+    top: 150px;
+    position: absolute;
+    z-index: 2;
+}
+
+.linee{
+    background-color: white;
+    width: 30%;
+    height: 10px;
+    top: 925px;
+    position: absolute;
+    z-index: 2;
+}
+
+.linef{
+    background-color: white;
+    width: 13%;
+    height: 10px;
+    top: 150px;
+    left: 87%;
+    position: absolute;
+    z-index: 2;
+}
+
+.about_shader{
+    background-color: #2e3e6664;
+    width: 100%;
+    height: 909px;
+    position: absolute;
+    z-index: 1;
+}
+
+.dotx {
+    height: 150px;
+    width: 150px;
+    background-color: #ffffff;
+    border-radius: 50%;
+    z-index: 3;
+    position: absolute;
+    top: 825px;
+    left: 5%;
+  }
+
+.doty{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    border-radius: 50%;
+    z-index: 3;
+    position: absolute;
+    top: 125px;
+    left: 20%;
+}
+
+.dotz{
+    height: 350px;
+    width: 350px;
+    background-color: white;
+    border-radius: 50%;
+    z-index: 3;
+    position: absolute;
+    top: 100px;
+    left: 75%;
+}
+
+.dotzz{
+    height: 150px;
+    width: 150px;
+    background-color: white;
+    border-radius: 50%;
+    z-index: 3;
+    position: absolute;
+    top: 475px;
+    left: 89%;
+}
+
+
+.about_header_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    position: relative;
+    object-fit: cover;
+}
+
+.index_header_about{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 150px;
+    position: absolute;
+    z-index: 1;
+    top: 280px;
+    left: 7%;
+    color: white;
+    z-index: 2;
+}
+
+.index_header_and{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 170px;
+    position: absolute;
+    z-index: 1;
+    top: 415px;
+    left: 26%;
+    color: white;
+    z-index: 2;
+}
+
+.index_header_background{
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 125px;
+    position: absolute;
+    z-index: 2;
+    top: 470px;
+    left: 15%;
+    transform: rotate(-90deg);
+    color: white;
+}
+
+.about_back{
+    background-color: #abb6d271;
+    z-index: 1;
+}
+
+/* hr{
+    border-bottom: 1px dotted #1D2844;
+    position: absolute;
+    top: 1000px;
+    left: 20%;
+    z-index: 3;
+    width: 50px;
+    height: 10px;
+} */
+
+.about_nav_back{
+    width: 100%;
+    height: 75px;
+    background-color: #1D2844;
+    top: 10006px;
+}
+
+.about_nav{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    font-size: 30px;
+    position: absolute;
+    left: 25%;
+    top: 990px;
+    z-index: 2;
+}
+
+#anav_index:hover{
+    color:  #abb6d271;
+}
+
+#anav_about:hover{
+    color:  #abb6d271;
+}
+
+#anav_gallery:hover{
+    color:  #abb6d271;
+}
+
+#anav_style:hover{
+    color:  #abb6d271;
+}
+
+#anav_career:hover{
+    color:  #abb6d271;
+}
+
+.about_img{
+    /* display: block; */
+    /* margin-left: auto;
+    margin-right: auto; */
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.timeline-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-auto-rows: 600px;
+    grid-auto-flow: column;
+    z-index: 2;
+}
+
+.fivesev{
+    grid-row: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.timeline_text{
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    width: 300px;
+}
+
+.sixnine{
+    grid-column: 2/3;
+    grid-row: 3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sevfive{
+    grid-row: 4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.eightone{
+    grid-column: 2/3;
+    grid-row: 5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nineone{
+    grid-row: 6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.oneone{
+    grid-column: 2/3;
+    grid-row: 7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.oneeight{
+    grid-row: 8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.twofour{
+    grid-column: 2/3;
+    grid-row: 9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hover p{
+    position: absolute;
+    opacity: 1;
+    transition: opacity 1s;
+}
+
+.hover img{
+    position: absolute;
+    opacity: 1;
+    transition: opacity 0.5s;
+}
+
+.hover img:hover{
+    opacity: 0;
+}
+
+.timeline{
+    width: 10px;
+    height: 5000px;
+    position: absolute;
+    top: 1500px;
+    left: 50%;
+    z-index: 4;
+    background-color: #1D2844;
+}
+
+#top{
+    border-radius: 50%;
+    background-color: #1D2844;
+    position: absolute;
+    top: 1475px;
+    left: 49.3%;
+    z-index: 5;
+    width: 30px;
+    height: 30px;
+}
+
+#bottom{
+    border-radius: 50%;
+    background-color: #1D2844;
+    position: absolute;
+    top: 6490px;
+    left: 49.4%;
+    z-index: 5;
+    width: 30px;
+    height: 30px;
+}
+
+hr{
+    border-top: 1px dashed red;
+    position: absolute;
+    top: 1000px;
+    left: 30%;
+    z-index: 4;
+}
+
+.background_square{
+    width: 70%;
+    height: 4900px;
+    margin: auto;
+    top: 1550px;
+    left: 15%;
+    background-color: #34456e6e;
+    position: absolute;
+}
+
+.dota {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+    /* display: inline-block; */
+    z-index: 3;
+  }
+
+p{
+    font-family: "Josefin Slab", serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.year  {
+    font-family: "Chewy", serif;
+    font-weight: 300;
+    font-size: 25px; 
+}
+
+.about_footer_back{
+    width: 100%;
+    height: 150px;
+    background-color: #1D2844;
+    position: absolute;
+    top: 6721px;
+    z-index: 2;
+}
+
+.about_spacer{
+    height: 400px;
+    /* background-color: red; */
+}
+
+.footerc{
+    position: absolute;
+    top: 6750px;
+    text-align: center;
+    left: 45%;
+    z-index: 3;
+}
+
+.footerd{
+    position: absolute;
+    top: 6780px;
+    text-align: center;
+    left: 44.5%;
+    z-index: 3;
+}
+
+
+
+
+/* ------GALLERY------ */
+
+/* .gallery_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+} */
+
+.gallery_accent{
+    width: 100%;
+    height: 37.5px;
+    background-color: #566C6D;
+}
+
+.gallery_back{
+    background-color: rgb(181, 226, 214);
+}
+
+.gallery_header_img{
+    width: 100%;
+}
+
+#gallery_shader{
+    background-color: #566c6d85;
+    width: 100%;
+    height: 1089px;
+    position: absolute;
+    z-index: 1;
+}
+
+.lineg{
+    background-color: white;
+    width: 25%;
+    height: 10px;
+    top: 225px;
+    position: absolute;
+    z-index: 2;
+}
+
+.lineh{
+    background-color: white;
+    width: 10%;
+    height: 10px;
+    top: 1000px;
+    position: absolute;
+    z-index: 2;
+}
+
+.linei{
+    background-color: white;
+    width: 33%;
+    height: 10px;
+    top: 225px;
+    left: 67%;
+    position: absolute;
+    z-index: 2;
+}
+
+.linej{
+    background-color: white;
+    width: 35%;
+    height: 10px;
+    top: 1000px;
+    left: 65%;
+    position: absolute;
+    z-index: 3;
+}
+
+#gnav_index:hover{
+    color:  rgb(181, 226, 214);
+}
+
+#gnav_about:hover{
+    color:  rgb(181, 226, 214);
+}
+
+#gnav_gallery:hover{
+    color:  rgb(181, 226, 214);
+}
+
+#gnav_style:hover{
+    color:  rgb(181, 226, 214);
+}
+
+#gnav_career:hover{
+    color:  rgb(181, 226, 214);
+}
+
+.bassociates{
+    font-family: "Josefin Slab", serif;
+    font-weight: 500;
+    font-size: 30px;
+    text-align: center;
+    margin: 30px;
+    position: absolute;
+    top: 1270px;
+    left: 40%;
+    color: #566C6D;
+}
+
+.bassociates:hover{
+    color: white;
+    font-size: 40px;
+    left: 38%;
+    transition: 0.5s;
+}
+
+.gallery_spacera{
+    height: 200px;
+    width: 200px;
+}
+
+.gallery_nav{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    font-size: 30px;
+    position: absolute;
+    left: 25%;
+    top: 1170px;
+    z-index: 2;
+}
+
+.gallery_nav_back{
+    width: 100%;
+    height: 75px;
+    background-color: #566C6D;
+    top: 1175.7px;
+    position: absolute;
+}
+
+#portfolio{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 125px;
+    position: absolute;
+    z-index: 1;
+    top: 600px;
+    left: 2%;
+    color: white;
+    z-index: 2;
+}
+
+#ampersand{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 125px;
+    position: absolute;
+    z-index: 1;
+    top: 380px;
+    left: 70%;
+    color: white;
+    z-index: 2;
+}
+
+#gallery{
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 200px;
+    position: absolute;
+    z-index: 2;
+    top: 380px;
+    left: 58%;
+    transform: rotate(-90deg);
+    color: white;
+}
+
+/* .gallery_grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    grid-auto-rows: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+} */
+
+/* .gallery_grid img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+} */
+
+/* .Slides{
+    display: none;
+} */
+
+/* .previous, .next{
+    cursor: pointer;
+    position: absolute;
+    top: 1650px;
+    width: 48%;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    z-index: 3;
+    grid-column: 1/2;
+} */
+
+/* .next{
+    right: 0;
+    border-radius: 3px 0 0 3px;
+} */
+
+/* .banner{
+    grid-row: span 2;
+} */
+
+/* .icecream{
+    grid-column: 3/4;
+    grid-row: 1;
+} */
+
+/* .monday{}  */
+
+/* .paris{} */
+
+/* .mayo{} */
+
+/* .lavender{} */
+
+/* .dunkin{} */
+
+/* .lip{} */
+
+/* .riot{} */
+
+/* .no2{} */
+
+/* .dom{} */
+
+/* .coffee{} */
+
+/* .book{} */
+
+/* .tiger{} */
+
+
+.temp_gallery_grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    grid-auto-rows: 500px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.temp_gallery_grid img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+
+
+
+.gallery_footer_back{
+    width: 100%;
+    height: 150px;
+    background-color: #566C6D;
+    position: absolute;
+    top: 3700px;
+    z-index: 2;
+}
+
+#footere{
+    position: absolute;
+    top: 3730px;
+    text-align: center;
+    left: 44.5%;
+    z-index: 3;
+}
+
+#footerf{
+    position: absolute;
+    top: 3760px;
+    text-align: center;
+    left: 44%;
+    z-index: 3;
+}
+
+
+
+
+
+
+/* -------STYLE------- */
+
+.style_accent{
+    width: 100%;
+    height: 37.5px;
+    background-color: #3A4F1A;
+}
+
+.style_header_img{
+    width: 100%;
+    height: 900px;
+    object-fit: cover;
+    /* position: absolute; */
+    top: 85px;
+}
+
+.gal_shader{
+    background-color: #3a4f1a69;
+    width: 100%;
+    height: 902px;
+    position: absolute;
+    z-index: 1;
+    top: 86px;
+}
+
+.style_nav{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    font-size: 30px;
+    position: absolute;
+    left: 25%;
+    top: 975px;
+    z-index: 2;  
+}
+
+#style_nav_back{
+    width: 100%;
+    height: 75px;
+    background-color: #3A4F1A;
+    /* top: 1175.7px; */
+    position: absolute;
+    top: 980px;
+}
+
+#style_index:hover{
+    color: #b3c893b7;
+}
+
+#style_about:hover{
+    color: #b3c893b7;
+}
+
+#style_gallery:hover{
+    color: #b3c893b7;
+}
+
+#style_style:hover{
+    color: #b3c893b7;
+}
+
+#style_career:hover{
+    color: #b3c893b7;
+}
+
+#style_spacer{
+    /* background-color: red; */
+    width: 10px;
+    height: 200px;
+    z-index: 1;
+}
+
+#style_background_img{
+    z-index: 1;
+    width: 100%;
+    opacity: 50%;
+    position: absolute;
+}
+
+.swipey{
+    position: absolute;
+    z-index: 4;
+    top: 520px;
+    left: 40%;
+    width: 80%;
+}
+
+.swipex{
+    position: absolute;
+    z-index: 4;
+    top: 1000px;
+    left: 8%;
+    width: 80%;
+}
+
+.swipew{
+    position: absolute;
+    z-index: 4;
+    top: 1500px;
+    left: 40%;
+    width: 80%;
+}
+
+.swipea{
+    position: absolute;
+    width: 70%;
+    z-index: 4;
+    top: 1200px;
+}
+
+.swipeaa{
+    position: absolute;
+    width: 70%;
+    top: 1200px;
+}
+
+.hover img{
+    position: absolute;
+    opacity: 1;
+    transition: opacity 0.5s;
+}
+
+.hover img:hover{
+    opacity: 0;
+}
+
+.hover p{
+    position: absolute;
+    opacity: 1;
+    transform: opacity 1s;
+}
+
+.swipe_text{
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: black;
+    width: 40%;
+    text-align: center;
+    left: 10%;
+    position: absolute;
+    top: 1250px;
+    left: 15%;
+}
+
+.swipe_texta{
+    font-family: "Josefin Slab", serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: black;
+    width: 40%;
+    text-align: center;
+    left: 20%;
+    position: absolute;
+    top: 1250px;
+    left: 15%;
+}
+
+h2{
+    text-align: center;
+    font: 50px;
+}
+
+body{
+    margin: 0;
+}
+
+.style_back{
+    background-color: #b3c893b7;
+}
+
+.linek{
+    background-color: white;
+    width: 43%;
+    height: 10px;
+    top: 190px;
+    position: absolute;
+    z-index: 2;
+}
+
+.linel{
+    background-color: white;
+    width: 10%;
+    height: 10px;
+    top: 880px;
+    position: absolute;
+    z-index: 2;
+}
+
+.linem{
+    background-color: white;
+    width: 6%;
+    height: 10px;
+    top: 190px;
+    left: 94%;
+    position: absolute;
+    z-index: 2;
+}
+
+#gal_style{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 150px;
+    position: absolute;
+    z-index: 1;
+    top: 200px;
+    left: 10%;
+    color: white;
+    z-index: 2;
+}
+
+#gal_ampersand{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 125px;
+    position: absolute;
+    z-index: 1;
+    top: 380px;
+    left: 28%;
+    color: white;
+    z-index: 2;
+}
+
+#gal_influences{
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 130px;
+    position: absolute;
+    z-index: 2;
+    top: 380px;
+    left: 19%;
+    transform: rotate(-90deg);
+    color: white;
+}
+
+/* .style_spacerb{
+    background-color: red;
+    height: 300px;
+    width: 10px;
+    position: absolute;
+} */
+
+#style_footer_back{
+    width: 100%;
+    height: 150px;
+    background-color: #3A4F1A;
+    position: absolute;
+    top: 3200px;
+    z-index: 2;
+}
+
+#footerg{
+    position: absolute;
+    top: 3220px;
+    text-align: center;
+    left: 45%;
+    z-index: 3;
+}
+
+#footerh{
+    position: absolute;
+    top: 3250px;
+    text-align: center;
+    left: 44.5%;
+    z-index: 3;
+}
+
+
+
+
+
+/* -------CAREER------- */
+
+.career_header_img{
+    width: 100%;
+    height: 900px;
+    object-fit: cover;
+    position: absolute;
+}
+
+.career_shader{
+    width: 100%;
+    height: 900px;
+    background-color: #695f3f88;
+    top: 88px;
+    z-index: 1;
+    position: absolute;
+}
+
+.career_accent{
+    width: 100%;
+    height: 37.5px;
+    background-color: #695F3F;
+}
+
+.career_back{
+    background-color: #695f3f88;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+
+#career{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 150px;
+    position: absolute;
+    z-index: 1;
+    top: 160px;
+    left: 10%;
+    color: white;
+    z-index: 2;
+}
+
+#car_amper{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 125px;
+    position: absolute;
+    z-index: 1;
+    top: 340px;
+    left: 31%;
+    color: white;
+    z-index: 2;
+}
+
+#car_achieve{
+    font-family: "Josefin Slab", serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 110px;
+    position: absolute;
+    z-index: 2;
+    top: 380px;
+    left: 19%;
+    transform: rotate(-90deg);
+    color: white;
+}
+
+#career_nav_back{
+    width: 100%;
+    height: 75px;
+    background-color: #695F3F;
+    position: absolute;
+    top: 987px;
+}
+
+.career_nav{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    font-size: 30px;
+    position: absolute;
+    left: 25%;
+    top: 980px;
+    z-index: 2; 
+}
+
+#career_index:hover{
+    color: white;
+}
+
+#career_about:hover{
+    color: white;
+}
+
+#career_gallery:hover{
+    color: white;
+}
+
+#career_style:hover{
+    color: white;
+}
+
+#career_career:hover{
+    color: white;
+}
+
+.career_texta{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 50px;
+    position: absolute;
+    z-index: 1;
+    top: 1200px;
+    left: 15%;
+    color: #695F3F;
+    z-index: 2;
+    width: 70%;
+}
+
+.career_textb{
+    font-family: "Josefin Slab", serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 50px;
+    position: absolute;
+    z-index: 1;
+    top: 2000px;
+    left: 15%;
+    color: #695F3F;
+    z-index: 2;
+    width: 70%;
+}
+
+#career_footer_back{
+    width: 100%;
+    height: 150px;
+    background-color: #695F3F;
+    position: absolute;
+    top: 2500px;
+    z-index: 2;
+}
+
+#footeri{
+    position: absolute;
+    top: 2520px;
+    text-align: center;
+    left: 45%;
+    z-index: 3;
+}
+
+#footerj{
+    position: absolute;
+    top: 2550px;
+    text-align: center;
+    left: 44.5%;
+    z-index: 3;
+}
